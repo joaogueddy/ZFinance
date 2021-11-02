@@ -1,4 +1,16 @@
-pragma solidity 0.5.16;
+/**
+ *Submitted for verification at BscScan.com on 2021-11-01
+*/
+
+/* 
+
+   ZFinance
+    
+*/
+
+// SPDX-License-Identifier: MIT
+
+pragma solidity ^0.8.9;
 
 interface IBEP20 {
   /**
